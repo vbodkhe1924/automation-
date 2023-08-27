@@ -1,4 +1,4 @@
-arr = [10, 324, 45, 90, 9808]
+arr = []
 n = len(arr)
 def Max(arr, n):
     max = arr[0]
